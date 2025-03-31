@@ -15,6 +15,7 @@ squares.forEach((square, index) => {
     square.addEventListener("mouseout", () => {
         squares.forEach((otherSquare) => {
             otherSquare.style.backgroundColor = "#E6E6FA"; // Lavender color
+		     }			
         });
     });
 });
