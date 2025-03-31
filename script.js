@@ -18,3 +18,5 @@ squares.forEach((square, index) => {
         });
     });
 });
+
+
